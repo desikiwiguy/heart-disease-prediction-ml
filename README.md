@@ -69,3 +69,20 @@ The system outputs:
 ## Important Note
 The dataset and trained model files are intentionally not uploaded to prevent academic misuse.  
 This repository is provided for portfolio demonstration and recruiter evaluation only.
+
+---
+
+## Model Training
+![Model Training](images/model-training.png)
+
+## Training Result
+![Accuracy](images/accuracy-score.png)
+
+## Confusion Matrix
+![Confusion Matrix](images/confusion-matrix.png)
+
+## Web Application Interface
+![Interface](images/analyzing-medical-data.png)
+
+## Final Prediction Output
+![Prediction](images/prediction-example.png)
